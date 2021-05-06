@@ -1,7 +1,27 @@
-### Opa, sou o [Luca Mendes](https://www.linkedin.com/in/luca-mendes-b2a959211/) 👋
+
+### Hi, I'm [Luca Mendes!](https://www.linkedin.com/in/luca-mendes-b2a959211/) 👋
+
+<a href="https://www.linkedin.com/in/luca-mendes-b2a959211/" target="_blank">
+  <img src="https://raw.githubusercontent.com/brunobertolini/brunobertolini/master/assets/linkedin.svg" width="21px"  alt="Luca Mendes | LinkedIn" align="left" />
+</a>
+
+<a href="http://instagram.com/codemqf" target="_blank">
+  <img src="https://raw.githubusercontent.com/brunobertolini/brunobertolini/master/assets/instagram.svg" width="21px"  alt="Instagram" align="left" />
+</a>
+
+<br />
+<br />
 
 My name is Luca Mendes, developer with 2 years of experience, always focused on software quality and self improvement.
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucamqf)](https://github.com/anuraghazra/github-readme-stats)
+**Minha Stack atual:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
