@@ -1,7 +1,7 @@
 
 ### Hi, I'm [Luca Mendes!](https://www.linkedin.com/in/luca-mendes-b2a959211/) 👋
 
-<a href="https://www.linkedin.com/in/luca-mendes-b2a959211/" target="_blank">
+<a href="https://www.linkedin.com/in/lucamqf/" target="_blank">
   <img src="https://raw.githubusercontent.com/brunobertolini/brunobertolini/master/assets/linkedin.svg" width="21px"  alt="Luca Mendes | LinkedIn" align="left" />
 </a>
 
