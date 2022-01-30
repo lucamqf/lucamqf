@@ -1,7 +1,8 @@
 ### Hi, I'm [Luca Mendes!](https://www.linkedin.com/in/luca-mendes-b2a959211/) 👋
 
-<div style="background-color: red; width: 100%; height: 200px">
-   Vish
+<div style="background-color: red; width: 200px; height: 200px; display: flex; justify-content: space-between">
+   <span style="width: 40%; background-color: blue">Olá 1</span>
+   <span style="width: 40%; background-color: green">Olá 2</span>
 </div>
 
 **Stack:**
