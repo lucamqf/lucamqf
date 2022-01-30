@@ -1,4 +1,4 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Oiá eu sou o Luca Mendes, programador fullstack!
 <div align="center">
   <a href="https://github.com/lucamqf">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucamqf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
