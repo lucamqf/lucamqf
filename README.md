@@ -1,5 +1,5 @@
 ## Olá, eu sou o Luca Mendes!
-<div style="width: 100%; margin: 0; padding: 0">
+<div>
   <a href="https://github.com/lucamqf">
   <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucamqf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucamqf&layout=compact&langs_count=7&theme=dracula"/>
